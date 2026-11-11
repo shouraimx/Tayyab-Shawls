@@ -51,12 +51,6 @@ An online store for shawls — lawn, Swiss lawn, cotton, handwork, Irani, embroi
 ### Homepage
 ![Homepage](screenshots/home.png)
 
-### Shop
-![Shop](screenshots/shop.png)
-
-### Sale
-![Sale](screenshots/sale.png)
-
 ### Lawn Shawls Category
 ![Lawn Shawls Category](screenshots/category-lawn-shawls.png)
 
